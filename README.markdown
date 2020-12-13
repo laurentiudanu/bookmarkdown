@@ -1,8 +1,4 @@
 Bookmarkdown
 ============
 
-Source (Mercurial):
-Source (Git):
-Issues:
-License:
-
+base script -> see https://github.com/laurentiudanu/learnvimscriptthehardway
